@@ -1,7 +1,8 @@
-Hello! If you're here from [Advent of Code](https://adventofcode.com), check out [my repository](https://github.com/hyper-neutrino/advent-of-code) which contains most of my solutions as I wrote them during the contest. You may also be interested in my [YouTube channel](https://youtube.com/@hyper-neutrino), where I cover some of my solutions for AoC challenges.
+![HyperNeutrino's Banner](https://hyper-neutrino.xyz/banner.png)
 
-I am active on Stack Exchange, particularly Code Golf ([link to my profile](https://codegolf.stackexchange.com/users/68942/hyper-neutrino)).
+Hey! I'm **HyperNeutrino**. I'm a web developer, Discord bot developer, and [YouTuber](https://youtube.com/@hyper-neutrino). If you're here from the Advent of Code, check out [my repository](https://github.com/hyper-neutrino/advent-of-code) of solutions if you're interested or my [YouTube channel](https://youtube.com/@hyper-neutrino) where I walk through a full solve of the problems.
 
-You can join my discord server, [The Particle Collider](https://discord.gg/j9uunTRRJm).
-
-[![hyper-neutrino's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyper-neutrino)](https://github.com/anuraghazra/github-readme-stats)
+- [Website](https://hyper-neutrino.xyz/)
+- [Discord Server](https://discord.gg/j9uunTRRJm)
+- [Code Golf (Stack Exchange) Profile](https://codegolf.stackexchange.com/users/68942/hyper-neutrino)
+- [YouTube Channel](https://youtube.com/@hyper-neutrino)
